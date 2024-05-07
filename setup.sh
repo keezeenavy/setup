@@ -20,6 +20,8 @@ apt install ufw -y
 apt install unattended-upgrades -y 
 apt install rsync -y
 apt install sudo -y
+apt install docker.io -y
+apt install docker-compose -y
 
 echo "OK"
 
